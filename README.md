@@ -6,8 +6,8 @@
 
 | Название | Презентация | Видео | Дополнительные материалы |
 | -------- | ----------- | ----- | ------------------------ |
-| [Корутины и Qt.<br/>Библиотека QCoro](https://github.com/cppmoscow/Qt_coroutines) | [PDF]() | [YouTube]() | --- |
-| [ООП в Clickhouse](https://github.com/cppmoscow/clickhouse_patterns) | [PDF]() | [YouTube]() | --- |
+| [Корутины и Qt.<br/>Библиотека QCoro](https://github.com/cppmoscow/Qt_coroutines) | [PDF](https://github.com/cppmoscow/Qt_coroutines/blob/main/slides.pdf) | [YouTube](https://youtu.be/EKpifgwz4O4) | --- |
+| [ООП в Clickhouse](https://github.com/cppmoscow/clickhouse_patterns) | [PDF](https://github.com/cppmoscow/clickhouse_patterns/blob/main/slides.pdf) | [YouTube](https://youtu.be/fUYAsDI2V2E) | --- |
 
 ## Прочие активности
 
